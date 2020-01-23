@@ -7,4 +7,6 @@ if (__DEV__) {
 
   // eslint-disable-next-line no-console
   console.tron = tron;
+
+  tron.clear();
 }
